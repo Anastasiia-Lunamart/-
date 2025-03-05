@@ -1,6 +1,7 @@
+<title> Школа бойових мистецтв </title>
 <html>
     
-<title> Школа бойових мистецтв </title>
+
 
 <body style="font-family: sans-serif">
 
